@@ -2,6 +2,9 @@
 
 이 프로젝트는 Spring Boot를 기반으로 한 API 게이트웨이 애플리케이션으로, API 라우팅, 보안, 시스템 상태 모니터링 등의 기능을 제공합니다.
 
+## 구성도
+![image](https://github.com/user-attachments/assets/e91fe407-e62e-4e49-8288-8c5ef67f46cf)
+
 ## 요구사항
 
 ```plaintext
@@ -92,17 +95,4 @@ cd trip-application
 
 4. 개발 도구
    - Spring Boot DevTools를 활용하여 개발 중 핫 리로드 지원.
-```
-
-## 기여 방법
-
-```plaintext
-이 레포지토리를 포크한 후 수정 사항을 적용하여 Pull Request를 제출하세요.
-기여하기 전에 프로젝트의 기여 가이드를 참고하세요.
-```
-
-## 라이선스
-
-```plaintext
-이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 LICENSE 파일을 참고하세요.
 ```
